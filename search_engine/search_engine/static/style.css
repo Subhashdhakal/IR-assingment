@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, #d1e8ff, #b3d0ff);
+    min-height: 100vh;
+}
+
+.navbar {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+    background-color: white !important;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
